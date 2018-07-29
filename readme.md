@@ -1,5 +1,4 @@
-### the dataset is GTSRB you could download it through web search
+This repository provides a basic code for the Detection of Traffic Sign implemented with the help of YOLO Algorithm.
+## This is carried out on GTSRB Dataset.
 
-### train : python main.py train
 
-### test : python main.py test
